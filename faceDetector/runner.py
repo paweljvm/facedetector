@@ -4,6 +4,6 @@ import train.train_controller
 import detect.detect_controller
 @app.route("/")
 def index():
-    return "Train controller"
+    return "<b>FACE DETECTOR</b>"
 
 app.run(config.host,config.port)
