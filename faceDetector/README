@@ -1,0 +1,6 @@
+
+Install packages:
+sudo pip3 install pymongo
+sudo pip3 install face_recognition
+
+Run it using python3 runner.py
